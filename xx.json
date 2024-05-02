@@ -5,7 +5,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "https://raw.gitcode.com/gyjune/ipv6/raw/main/%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD.json",
+      "url": "http://qrh.yimkj.cn/直播源.php",
       "epg": "http://epg.112114.eu.org/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/bingimg/logo/{name}.png"
     }
